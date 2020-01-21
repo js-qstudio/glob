@@ -1,0 +1,33 @@
+{
+  "_args": [
+    [
+      "g@https://npm.jig-san.me/g/!global",
+      "/Users/mac/projects/sbdt1"
+    ]
+  ],
+  "_from": "g@https://npm.jig-san.me/g/!global",
+  "_id": "g@https://npm.jig-san.me/g/!global",
+  "_inBundle": false,
+  "_integrity": "sha512-9/U18X7+48YO3mG3GR2yKi7fqBFrnUWB0HTtF0AOxHc5jh+3xjQVaRKwZaVsxz2ST1ZOay+KVU7qtUaOyFZvag==",
+  "_location": "/g",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "g@https://npm.jig-san.me/g/!global",
+    "name": "g",
+    "escapedName": "g",
+    "rawSpec": "https://npm.jig-san.me/g/!global",
+    "saveSpec": "https://npm.jig-san.me/g/!global",
+    "fetchSpec": "https://npm.jig-san.me/g/!global"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": false,
+  "_spec": "https://npm.jig-san.me/g/!global",
+  "_where": "/Users/mac/projects/sbdt1",
+  "main": "./index.js",
+  "name": "g",
+  "private": true,
+  "version": "1.0.0"
+}
